@@ -28,7 +28,7 @@ form {
   }
 
   ul {
-    list-style-type: none;
+    list-style-type: square;
     margin: 0 0 5px 0;
     padding: 0;
   }
@@ -366,7 +366,7 @@ select:focus {
     margin-left: 0;
     padding-left: 0;
     li {
-      list-style-type: none;
+      list-style-type: square;
     }
   }
 }

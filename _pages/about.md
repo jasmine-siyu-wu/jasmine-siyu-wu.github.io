@@ -10,21 +10,16 @@ redirect_from:
 
 I am a PhD student in City & Regional Planning at the University of Pennsylvania Weitzman School of Design, concentrating on transportation planning. I am also a graduate researcher at the Center for Safe Mobility led by [Professor Megan Ryerson](http://www.meganryerson.com/), where I am contributing to the accessibility and equity research on teen driving education. I received a Master of City Planning (Sustainable Transportation and Infrastructure Planning) from University of Pennsylvania and Bachelor of Science in GeoDesign from University of Southern California. 
 
-My research focuses on the safety, equity, and accessibility, which is heavily influenced by my family, who are medical practitioners and taught me the very first lesson in my life: that life is priceless and we must all work to protect public health. I believe that transportation is a way to connect my commitment to public health and safety with expanding accessibility for all people to resources and opportunities in their daily life. Understanding the disparities of crashes across communities - that lower-income neighborhoods had higher crashrates - from the internship at the Los Angeles Department of Transportation Vision Zero division, I was further convinced that transportation safety is an equity issue involving public health and mobility. This also encouraged me to continue the research at the intersection of transportation safety, equity, and accessibility, and specifically research why some people are more vulnerable to unsafe conditions. Aiming for a career in academia, I am dedicated to building an active, safe, efficient, and just transportation system by taking advantage of scientific and technological development in other fields.
-
-
+My research focuses on the intersection of transportation safety, equity, and accessibility, and specifically research why some people are more vulnerable to unsafe conditions. Aiming for a career in academia, I am dedicated to building an active, safe, efficient, and just transportation system by taking advantage of scientific and technological development in other fields.
 
 
 Research interests
-======
-- Transportation planning: access, safety, and urban mobility
-- Urban informatics and spatial data sciences
-- Public health and equity
+---
+Transportation planning: access, safety, and urban mobility | Urban informatics and spatial data sciences | Public health and equity
 
 
 What's new
-======
-
+---
 I recently graduated from Universit of Pennsylvania with a Master's Degree in City Planning, with the completion of my master's thesis in ["Understanding Links Between Teen's Access to Driver Education and Safe Driving Skills Development: Evidence from the State of Ohio"](https://www.design.upenn.edu/yes2023/thesis-jasmine-siyu-wu)
 
 
