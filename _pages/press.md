@@ -45,7 +45,7 @@ Honored on the University of Southern California Doheny Memorial Library Wall of
 
 
 
-*June 2021*
+June 2021
 ---
 USC Spatial Sciences Institute featuring me receiving prestigious [Bovard award](https://spatial.usc.edu/geodesign-major-jasmine-wu-receives-prestigious-bovard-award/)
 
