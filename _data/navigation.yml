@@ -1,21 +1,21 @@
 # main links links
 main:
+
+  - title: "CV"
+    url: /cv/
+    
   - title: "Publications"
     url: /publications/
-
-    
-  - title: "Portfolio"
-    url: /portfolio/
 
   - title: "Awards/Grants"
     url: /awards/   
 
   - title: "Press"
     url: /press/    
-    
-  - title: "CV"
-    url: /cv/
-    
+        
+  - title: "Portfolio"
+    url: /portfolio/
+      
 #  - title: "Blog Posts"
 #    url: /year-archive/
 
