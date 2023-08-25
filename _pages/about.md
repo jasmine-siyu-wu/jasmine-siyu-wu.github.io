@@ -20,10 +20,12 @@ Transportation planning: access, safety, and urban mobility | Urban informatics 
 
 What's new
 ---
-I recently graduated from University of Pennsylvania with a Master's Degree in City Planning, with the completion of my master's thesis in ["Understanding Links Between Teen's Access to Driver Education and Safe Driving Skills Development: Evidence from the State of Ohio"](https://www.design.upenn.edu/yes2023/thesis-jasmine-siyu-wu)
+Read new articles I recently coauthored with researchers at University of Pennsylvania Center for Safe Mobility and Children's Hospital of Philadelphia Center for Injury Research and Prevention in *[Findings](https://doi.org/10.32866/001c.85096)* and *[Accident Analysis and Prevention](https://doi.org/10.1016/j.aap.2023.107198)*.
+
+I recently graduated from University of Pennsylvania with a Master's Degree in City Planning, with the completion of my master's thesis in ["Understanding Links Between Teen's Access to Driver Education and Safe Driving Skills Development: Evidence from the State of Ohio"](https://www.design.upenn.edu/yes2023/thesis-jasmine-siyu-wu).
 
 
-Read my new OpEd co-authored with Zoe Yoo about ["Increasing SEPTA Bus Operators' Restroom Access"](https://www.pennpanorama.com/septa-operator-restroom-access)
+Read my new OpEd co-authored with Zoe Yoo about ["Increasing SEPTA Bus Operators' Restroom Access"](https://www.pennpanorama.com/septa-operator-restroom-access).
 
 
 <!---
