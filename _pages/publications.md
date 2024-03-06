@@ -10,6 +10,9 @@ author_profile: true
 
 2023
 ---
+Albers, Larisa, Christopher J. Rogers, Jane Steinberg, Robert O. Vos, Daniel Soto, Ryan Lee, **Jasmine Siyu Wu**, and Jennifer B. Unger. "Proximity to cannabis retailers and recent cannabis use among a diverse sample of California adolescents." Substance Use & Misuse (2023): 1-8. doi.org/10.1080/10826084.2023.2294965
+
+
 Dong, Xiaoxia, **Jasmine Siyu Wu**, Elizabeth A. Walshe, Flaura K. Winston, and Megan S. Ryerson. "Residing in a Driver Training Desert leads to Delayed Licensure: Investigating the Relationship between Accessibility to Driver Training and Young Driver's Licensure" Findings (2023). doi.org/10.32866/001c.85096
 
 Dong, Xiaoxia, **Jasmine Siyu Wu**, Shane T. Jensen, Elizabeth A. Walshe, Flaura K. Winston, and Megan S. Ryerson. "Financial status and travel time to driving schools as barriers to obtaining a young driver license in a state with comprehensive young driver licensing policy" *Accident Analysis and Prevention* 191 (2023): 107198. doi.org/10.1016/j.aap.2023.107198

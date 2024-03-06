@@ -20,7 +20,6 @@ Education
   
 Skills
 ---
-* Languages: English (Advanced), Mandarin (Native)
 * Programming: Python, R, SQL, Latex
 * Software: ArcGIS Pro/Online/Desktop, MS SQL Server Database, PostgreSQL/PostGIS, RStudio, Anaconda, PyCharm, Jupyter Notebook, Adobe (Photoshop, InDesign, Illustrator), AutoCAD, Sketchup, Rhino, VISUM, VISSIM
 
