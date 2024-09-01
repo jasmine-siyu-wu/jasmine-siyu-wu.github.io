@@ -1,19 +1,19 @@
 ---
-title: "New Roots"
-excerpt: "Architecture project, USC RED425, Fall 2020<br/><img src='/images/Portfolio_P2_2.jpg'>"
+title: "Garden for Getting Lost"
+excerpt: "Landscape architecture project, USC ARCH403, Fall 2019<br/><img src='/images/Portfolio_P1_2.jpg'>"
 collection: portfolio
 ---
 
-The site is located in Los Angeles' thriving Crenshaw neighborhood. Crenshaw is an important cultural hub for Los Angeles’ black community under immense gentrification pressures. There is an opportunity to uplift the area surrounding the site, which is currently a food desert, lacking in places for people to gather, and deficient of affordable housing. The Los Angeles Homeless Services Authority reported over 66,000 unhoused residents in 2020 signaling the lack of affordable housing available in Los Angeles. At least 180 unhoused persons live in the neighborhoods surrounding the site (Leimert Park, West Adams, Crenshaw, and Baldwin Hills). 
-
-We* proposed a new housing development with affordable housing units for formerly unhoused persons with a community garden at its core. In general, the project aims to create a new space for bringing together the entire Crenshaw Community, to celebrate locally-owned businesses, and promote a healthy lifestyle.
-
-_\*The development vision of this project was collaboratively completed with Emily Wulf for Prof. Liz Falletta's RED 425: Designing Livable Communities. Additionally, I was responsible for all of the design work and graphs._
+Located in the Little Tokyo neighborhood in Downtown Los Angeles, the 0.87-acre, 200-meter Garden for Getting Lost is a linear park characterized by dualities like the Japanese-American experience. A constructed wetland sustained by gray water from the adjacent hotel makes its way through the site alongside a meandering landscape of drought tolerant native and naturalized plants. Meanwhile, two paths - the Tokyo Path and the Los Angeles Path - embodying two cultures winds its way through the landscape. Flowering, deciduous plants dominate the Tokyo Path while evergreen plants feature more prominently in the Los Angeles Paths.
 
 <p align="center">
-<img src='/images/Portfolio_P2_1.jpg' width="800"/>
+<img src='/images/Portfolio_P1_1.jpg' width="800"/>
 </p>
 
 <p align="center">
-<img src='/images/Portfolio_P2_2.jpg' width="800"/>
+<img src='/images/Portfolio_P1_2.jpg' width="800"/>
+</p>
+
+<p align="center">
+<img src='/images/Portfolio_P1_3.jpg' width="800"/>
 </p>

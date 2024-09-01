@@ -1,38 +1,10 @@
 ---
-title: "A Public Park(ing) in Philadelphia Chinatown"
-excerpt: "Urban planning project, UPenn CPLN560, Spring 2023<br/><img src='/images/PublicParking_P9.jpg'>"
+title: "Ohio Driver Training Deserts Map Tool"
+excerpt: "Research project for Ohio Bureau of Motor Vehicles, in collaboration with Children's Hospital of Philadelphia, Spring 2024.<br/><img src='/images/Portfolio_P4_1.png'>"
 collection: portfolio
 ---
 
-The site is located in Los Angeles' thriving Crenshaw neighborhood. Crenshaw is an important cultural hub for Los Angeles’ black community under immense gentrification pressures. There is an opportunity to uplift the area surrounding the site, which is currently a food desert, lacking in places for people to gather, and deficient of affordable housing. The Los Angeles Homeless Services Authority reported over 66,000 unhoused residents in 2020 signaling the lack of affordable housing available in Los Angeles. At least 180 unhoused persons live in the neighborhoods surrounding the site (Leimert Park, West Adams, Crenshaw, and Baldwin Hills). 
+This map tool is developed using the methodology in ["Identifying community-level disparities in access to driver education and training: Toward a definition of driver training deserts."](https://www.tandfonline.com/doi/abs/10.1080/15389588.2022.2125305) and all 2023 driver training schools in the state of Ohio.
 
-We* proposed a new housing development with affordable housing units for formerly unhoused persons with a community garden at its core. In general, the project aims to create a new space for bringing together the entire Crenshaw Community, to celebrate locally-owned businesses, and promote a healthy lifestyle.
+[Map Link](/assets/ohio_driver_training_deserts_2023.html)
 
-
-<p align="center">
-<img src='/images/PublicParking_P1.jpg' width="800"/>
-</p>
-
-<p align="center">
-<img src='/images/PublicParking_P2.jpg' width="800"/>
-</p>
-
-<p align="center">
-<img src='/images/PublicParking_P3.jpg' width="800"/>
-</p>
-
-<p align="center">
-<img src='/images/PublicParking_P4.jpg' width="800"/>
-</p>
-
-<p align="center">
-<img src='/images/PublicParking_P7.jpg' width="800"/>
-</p>
-
-<p align="center">
-<img src='/images/PublicParking_P8.jpg' width="800"/>
-</p>
-
-<p align="center">
-<img src='/images/PublicParking_P9.jpg' width="800"/>
-</p>
