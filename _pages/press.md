@@ -7,6 +7,10 @@ author_profile: true
 #   - /resume
 ---
 
+May 2025
+---
+I received the [Penn Prize for Excellence in Teaching by Graduate Students](https://www.design.upenn.edu/post/jasmine-siyu-wu-awarded-penn-prize-excellence-teaching-graduate-students) as one of ten graduate student awardees across the University of Pennsylvania.
+
 
 
 May 2023

@@ -8,9 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD student in City & Regional Planning at the University of Pennsylvania Weitzman School of Design, concentrating on transportation planning. I am also a graduate researcher at the Center for Safe Mobility led by [Professor Megan Ryerson](http://www.meganryerson.com/), where I am contributing to the accessibility and equity research on teen driving education. I received a Master of City Planning (Sustainable Transportation and Infrastructure Planning) from University of Pennsylvania and Bachelor of Science in GeoDesign from University of Southern California. 
+I am a PhD candidate in City & Regional Planning at the University of Pennsylvania Weitzman School of Design, with a concentration in transportation planning. I am also pursuing a dual master's degree in Statistics and Data Science at the Wharton School. As a graduate research assistant at the Center for Safe Mobility led by [Professor Megan Ryerson, Ph.D.](https://www.design.upenn.edu/people/megan-s-ryerson), I contribute to interdisciplinary research on teen driver education, licensing, and safety. This work is enriched by collaboration with injury prevention and cognitive science scholars, including [Professor Flaura Winston, MD, Ph.D.](https://www.chop.edu/doctors/winston-flaura-k), and [Professor Elizabeth Walshe, Ph.D.](https://injury.research.chop.edu/meet-our-team/elizabeth-walshe), at the Center for Injury Research and Prevension (CIRP) at Children's Hospital of Philadelphia (CHOP). 
 
-My research focuses on the intersection of transportation safety, equity, and accessibility, and specifically research why some people are more vulnerable to unsafe conditions. Aiming for a career in academia, I am dedicated to building an active, safe, efficient, and just transportation system by taking advantage of scientific and technological development in other fields.
+I hold a Master of City Planning (with a focus on Sustainable Transportation and Infrastructure Planning) from the University of Pennsylvania and a Bachelor of Science in GeoDesign from the University of Southern California.
+
+My research lies at the intersection of transportation safety, equity, and accessibility—specifically investigating why certain populations face greater risks in unsafe mobility systems. I am committed to producing research that informs equitable, evidence-based policy solutions to improve safe mobility for all. With an academic career in mind, I aim to contribute to building transportation systems that are not only active, safe, and efficient, but also just—by leveraging scientific and technological advances across disciplines.
 
 
 Research interests
@@ -20,12 +22,17 @@ Transportation planning: access, safety, and urban mobility | Urban informatics 
 
 What's new
 ---
-Read new articles I recently coauthored with researchers at University of Pennsylvania Center for Safe Mobility and Children's Hospital of Philadelphia Center for Injury Research and Prevention in *[Findings](https://doi.org/10.32866/001c.85096)* and *[Accident Analysis and Prevention](https://doi.org/10.1016/j.aap.2023.107198)*.
+I passed the qualification exam and candidacy exam in June, 2025. I am working on my Ph.D. dissertation about "Enhancing Teen Transport Safety and Mobility Equity: Assessing the Impacts of Access to Driver Education and Licensing."
 
-I recently graduated from University of Pennsylvania with a Master's Degree in City Planning, with the completion of my master's thesis in ["Understanding Links Between Teen's Access to Driver Education and Safe Driving Skills Development: Evidence from the State of Ohio"](https://www.design.upenn.edu/yes2023/thesis-jasmine-siyu-wu).
+I received the [Penn Prize for Excellence in Teaching by Graduate Students](https://www.design.upenn.edu/post/jasmine-siyu-wu-awarded-penn-prize-excellence-teaching-graduate-students) in April 2025, as one of ten graduate student awardees across the University of Pennsylvania!
+
+<!---Read new articles I recently coauthored with researchers at University of Pennsylvania Center for Safe Mobility and Children's Hospital of Philadelphia Center for Injury Research and Prevention in *[Findings](https://doi.org/10.32866/001c.85096)* and *[Accident Analysis and Prevention](https://doi.org/10.1016/j.aap.2023.107198)*.
+
+# I recently graduated from University of Pennsylvania with a Master's Degree in City Planning, with the completion of my master's thesis in ["Understanding Links Between Teen's Access to Driver Education and Safe Driving Skills Development: Evidence from the State of Ohio"](https://www.design.upenn.edu/yes2023/thesis-jasmine-siyu-wu).
 
 
-Read my new OpEd co-authored with Zoe Yoo about ["Increasing SEPTA Bus Operators' Restroom Access"](https://www.pennpanorama.com/septa-operator-restroom-access).
+# Read my new OpEd co-authored with Zoe Yoo about ["Increasing SEPTA Bus Operators' Restroom Access"](https://www.pennpanorama.com/septa-operator-restroom-access).
+-->
 
 
 <!---

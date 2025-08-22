@@ -5,9 +5,13 @@ permalink: /awards/
 author_profile: true
 ---
 
-2023
+2025
 ---
-- FHWA Dwight David Eisenhower Transportation Fellowship
+- UPenn Prize for Excellence in Graduate Teaching
+
+2023-4
+---
+- FHWA Dwight David Eisenhower Transportation Fellowships
 
 
 2022
