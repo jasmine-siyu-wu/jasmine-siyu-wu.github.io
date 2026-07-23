@@ -1,0 +1,44 @@
+/* The Hinge Layout Framework */
+.site-container {
+  display: flex;
+  min-height: 100vh;
+}
+
+.masthead-anchor {
+  width: 30%; /* The fixed anchor side */
+  position: sticky;
+  top: 0;
+  height: 100vh;
+  border-right: 2px solid #222; /* Dark, chic vertical line */
+  padding: 2rem;
+  background-color: #ffffff;
+}
+
+.content-flow {
+  width: 70%;
+  padding: 4rem;
+  background-color: #f9f9f9; /* Subtle contrast for the content area */
+}
+
+/* Integrating your 'Safety Orange' accent from your research */
+.masthead-anchor a:hover {
+  color: #FF5E13; /* The orange accent color from your deck */
+  text-decoration: underline;
+}
+
+/* Mobile Responsiveness */
+@media (max-width: 800px) {
+  .site-container {
+    flex-direction: column;
+  }
+  .masthead-anchor {
+    width: 100%;
+    height: auto;
+    position: relative;
+    border-right: none;
+    border-bottom: 2px solid #222;
+  }
+  .content-flow {
+    width: 100%;
+  }
+}
