@@ -15,4 +15,24 @@
   .page__footer {
     display: none;
   }
+
+  #main,
+  .archive {
+    width: 100%;
+    max-width: none;
+    margin: 0;
+    padding: 0;
+    float: none;
+  }
+
+  body {
+    color: #000;
+    background: #fff;
+    font-size: 11pt;
+  }
+
+  a {
+    color: #000;
+    text-decoration: underline;
+  }
 }
